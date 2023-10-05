@@ -133,8 +133,8 @@ digitalWrite(led3, LOW);
 
 
 ## OUTPUT:
+![image](https://github.com/Thenmozhi-Palanisamy/Automatic-water-level-controller/assets/95198708/0fbf1b8e-69fd-4844-877a-55265db8de8d)
 
-![Uploading image.png…]()
 
 
 ## RESULT:
